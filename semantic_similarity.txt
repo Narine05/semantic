@@ -1,0 +1,2 @@
+the SM model doesn't use word vectors
+the precison of SM model is lower when using similarity
